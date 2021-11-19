@@ -3867,7 +3867,7 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-zora@^4.0.2:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/zora/-/zora-4.1.0.tgz#a0db6979ac315604df87794edaa72a71456ff4ce"
-  integrity sha512-tFowFksaFIwp0hzZ9dhM1rlaicS6VNjNMxEH3phgR5Glz3EMAoRujjJ50aTLAsl//SArTdG/kBt5EuvhqS6mww==
+zora@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/zora/-/zora-5.0.1.tgz#4dd75f7a7271ac76af1203106c702fbf2b51043b"
+  integrity sha512-unaQu2ZSh0HUTuOfHZ8+EDWRbbe280kYNBw6hidK/KDUm282dTDFVCddMked7i7CEVlp4tV1z9xk/0e8CKC1Ug==
