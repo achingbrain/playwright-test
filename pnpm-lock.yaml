@@ -141,7 +141,7 @@ devDependencies:
     version: 4.0.0
   simple-git-hooks:
     specifier: ^2.9.0
-    version: 2.9.0
+    version: 2.11.1
   tape:
     specifier: ^5.7.4
     version: 5.7.4
@@ -2554,7 +2554,7 @@ packages:
       eslint-plugin-yml: 1.10.0(eslint@8.53.0)
       lint-staged: 14.0.1
       prettier: 3.1.0
-      simple-git-hooks: 2.9.0
+      simple-git-hooks: 2.11.1
       typescript: 5.3.3
     transitivePeerDependencies:
       - enquirer
@@ -3956,8 +3956,8 @@ packages:
     resolution: {integrity: sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==}
     engines: {node: '>=14'}
 
-  /simple-git-hooks@2.9.0:
-    resolution: {integrity: sha512-waSQ5paUQtyGC0ZxlHmcMmD9I1rRXauikBwX31bX58l5vTOhCEcBC5Bi+ZDkPXTjDnZAF8TbCqKBY+9+sVPScw==}
+  /simple-git-hooks@2.11.1:
+    resolution: {integrity: sha512-tgqwPUMDcNDhuf1Xf6KTUsyeqGdgKMhzaH4PAZZuzguOgTl5uuyeYe/8mWgAr6IBxB5V06uqEf6Dy37gIWDtDg==}
     hasBin: true
     requiresBuild: true
     dev: true
